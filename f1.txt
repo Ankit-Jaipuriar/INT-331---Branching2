@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello everyone hello
+=======
+djfnsdf
+>>>>>>> 52cae5e (i)
